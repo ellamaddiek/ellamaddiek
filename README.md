@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ellamaddiek
 - 👀 I’m interested in gamedev, mobile dev and data analysis
-- 🌱 I’m currently learning GDScript, Lua and Dart
+- 🌱 I’m currently learning Lua and Dart
 
 <!---
 ellamaddiek/ellamaddiek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
